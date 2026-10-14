@@ -1,4 +1,4 @@
-# Go-iOS
+# Go
 
 Play Go on your iPhone/iPad :iphone:
 
